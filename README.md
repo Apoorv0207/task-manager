@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-https://task-manager-chi-dun.vercel.app/dashboard
+https://task-manager-chi-dun.vercel.app/register
 
 ---
 
